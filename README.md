@@ -15,7 +15,7 @@ The board measures at approximately 28mm X 43mm.
 * M1- : D2 [PD2]
   
 * M2+ : D5 [PD5]
-* M2- : A0 [PC0]
+* M2- : D12 [PB3]
   
 * M3+ : D7 [PD7]
 * M3- : D4 [PD4]
