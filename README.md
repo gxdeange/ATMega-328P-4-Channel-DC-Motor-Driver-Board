@@ -12,9 +12,16 @@ The board measures at approximately 28mm X 43mm.
 # Motor Input / Output mapping to MCU:
 
 * M1+ : D3 [PD3]
+* M1- : D2 [PD2]
+  
 * M2+ : D5 [PD5]
+* M2- : A0 [PC0]
+  
 * M3+ : D7 [PD7]
+* M3- : D4 [PD4]
+  
 * M4+ : D9 [PB1]
+* M4- : D8 [PB0]
 
 * Yellow LED+ : D13 [PB5]
 
