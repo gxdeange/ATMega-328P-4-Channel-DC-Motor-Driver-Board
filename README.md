@@ -17,7 +17,7 @@ The board measures at approximately 28mm X 43mm.
 * A4  : [PC4]
 * A5  : [PC5]
 
-# MOTOR CAPABILITIES
+# Motor Capabilities
 
 All 4 motor outputs can be programmed to run Forward or Reverse with M1, M2 and M4 utilising PWM outputs for variable speed settings.
 
