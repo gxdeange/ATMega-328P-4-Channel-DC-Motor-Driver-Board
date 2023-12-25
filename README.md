@@ -1,4 +1,4 @@
-# ATMega-328P-Motor-Driver-Board
+# ATMega 328P Motor Driver Board 5V MAX
 
 Quick view of ATMega 328P based 4c Channel Motor Driver board rated at 5V and powered either via a Mini USB connector or solder pads.
 
