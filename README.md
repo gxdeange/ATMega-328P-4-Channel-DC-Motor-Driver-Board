@@ -25,17 +25,7 @@ All 4 motor outputs can be programmed to run Forward or Reverse with M1, M2 and 
 
 # Motor Input / Output mapping to MCU:
 
-* M1+ : D3 [PD3] - PWM
-* M1- : D6 [PD6] - PWM
-  
-* M2+ : D5 [PD5] - PWM
-* M2- : D10 [PB2] - PWM
-  
-* M3+ : D7 [PD7]
-* M3- : D4 [PD4]
-  
-* M4+ : D9 [PB1] - PWM
-* M4- : D11 [PB3] - PWM
+![image](https://github.com/gxdeange/ATMega-328P-Brushed-DC-Motor-Driver-Board/assets/57690555/6861bb0c-10ee-48df-b62a-1dfe73c82aee)
 
 # LED OUTPUT
 
