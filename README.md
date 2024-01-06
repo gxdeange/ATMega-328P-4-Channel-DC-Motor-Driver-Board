@@ -11,6 +11,7 @@ The board measures at approximately 28mm X 43mm.
 * D12 : [PB4]
 * D8  : [PB0]
 * D2  : [PD2]
+* A0  : [PC0]
 * A1  : [PC1]
 * A2  : [PC2]
 * A3  : [PC3]
@@ -21,7 +22,7 @@ The board measures at approximately 28mm X 43mm.
 
 All 4 motor outputs can be programmed to run Forward or Reverse with M1, M2 and M4 utilising PWM outputs for variable speed settings.
 
-<img width="428" alt="ATMega 328P Driver Board" src="https://github.com/gxdeange/ATMega-328P-Motor-Driver-Board/assets/57690555/136c3b7f-b33e-4f8e-b9b2-1231b9f0e458">
+<img width="436" alt="ATMega328P 4-Channel DC Motor Driver Board 5V Max" src="https://github.com/gxdeange/ATMega-328P-DC-Motor-Driver-Board/assets/57690555/f7792abf-aafd-40cb-ab8f-1357dd98cb15">
 
 # Motor Input / Output mapping to MCU:
 
