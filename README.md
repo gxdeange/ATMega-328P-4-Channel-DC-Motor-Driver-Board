@@ -6,7 +6,7 @@ Quick view of ATMega 328P based 4c Channel Motor Driver board rated at 5V and po
 
 The board measures at approximately 28mm X 43mm.
 
-# Logic inputs
+# Logic Inputs / Outputs
 
 * D12 : [PB4]
 * D8  : [PB0]
@@ -17,6 +17,7 @@ The board measures at approximately 28mm X 43mm.
 * A3  : [PC3]
 * A4  : [PC4]
 * A5  : [PC5]
+* **All GPIO Inputs / Outputs are rated at 5V**
 
 # Motor Capabilities
 
