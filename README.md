@@ -25,6 +25,14 @@ All 4 motor outputs can be programmed to run Forward or Reverse with M1, M2 and 
 
 <img width="436" alt="ATMega328P 4-Channel DC Motor Driver Board 5V Max" src="https://github.com/gxdeange/ATMega-328P-DC-Motor-Driver-Board/assets/57690555/f7792abf-aafd-40cb-ab8f-1357dd98cb15">
 
+# ATMega 328P Motor Driver Board 18V MAX
+
+* This version will run to a maximum of 18V
+* Rverse Polarity Protection
+* **Must be connected to external power source (will not run off USB)**
+  
+<img width="442" alt="ATMega 328P 4 Channel DC Motor Driver 18V max" src="https://github.com/gxdeange/ATMega-328P-DC-Motor-Driver-Board/assets/57690555/5e9df128-11e6-4c8c-9b74-a4055a8b05b5">
+
 # Motor Input / Output mapping to MCU:
 
 ![image](https://github.com/gxdeange/ATMega-328P-Brushed-DC-Motor-Driver-Board/assets/57690555/6861bb0c-10ee-48df-b62a-1dfe73c82aee)
