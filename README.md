@@ -1,4 +1,4 @@
-# ATMega 328P DC Motor Driver Board 5V MAX
+# ATMega 328P 4 Channel DC Motor Driver Board 5V MAX
 
 Quick view of ATMega 328P based 4c Channel Motor Driver board rated at 5V and powered either via a Mini USB connector or solder pads.
 
@@ -25,7 +25,7 @@ All 4 motor outputs can be programmed to run Forward or Reverse with M1, M2 and 
 
 <img width="430" alt="ATMega 328P DC Driver Module 5V" src="https://github.com/gxdeange/ATMega-328P-DC-Motor-Driver-Board/assets/57690555/79aed803-6d8f-41cb-bc8b-95b774eac56b">
 
-# ATMega 328P DC Motor Driver Board 18V MAX
+# ATMega 328P 4 Channel DC Motor Driver Board 18V MAX
 
 * This version will run to a maximum of 18V
 * Rverse Polarity Protection
