@@ -23,7 +23,7 @@ The board measures at approximately 28mm X 43mm.
 
 All 4 motor outputs can be programmed to run Forward or Reverse with M1, M2 and M4 utilising PWM outputs for variable speed settings.
 
-<img width="436" alt="ATMega328P 4-Channel DC Motor Driver Board 5V Max" src="https://github.com/gxdeange/ATMega-328P-DC-Motor-Driver-Board/assets/57690555/f7792abf-aafd-40cb-ab8f-1357dd98cb15">
+<img width="430" alt="ATMega 328P DC Driver Module 5V" src="https://github.com/gxdeange/ATMega-328P-DC-Motor-Driver-Board/assets/57690555/79aed803-6d8f-41cb-bc8b-95b774eac56b">
 
 # ATMega 328P DC Motor Driver Board 18V MAX
 
