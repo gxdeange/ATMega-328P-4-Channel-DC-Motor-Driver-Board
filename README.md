@@ -2,7 +2,7 @@
 
 Quick view of ATMega 328P based 4c Channel Motor Driver board rated at 5V and powered either via a Mini USB connector or solder pads.
 
-8 X Logic Input and 2 X +5V pads and that can accomodate standard 2.54mm dupont header or direct soldering of wiring
+8 X Logic Input and +5V / GND pads that can accomodate standard 2.54mm dupont header or direct soldering of wiring
 
 The board measures at approximately 28mm X 43mm.
 
